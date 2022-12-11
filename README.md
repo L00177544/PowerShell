@@ -15,4 +15,7 @@ Following four directories were craeted:
         - Get Storage reliability counters for the specified disk (DiskRecce.ps1)
 -  ***Walkthroughs - 4. W2019 DSC***  - set of scripts to configure Desired State Configuration (DSC) on the server
 
+## Updates
 
+- 1.0 / 11-12-2022 
+  - [x] Initial entry
